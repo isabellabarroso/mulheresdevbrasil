@@ -1,7 +1,7 @@
 # mulheresdevbrasil
 **Mulheres Desenvolvedoras - Brasil**
 
-Este será um espaço para o comartilhamento de recursos de aprendizado sobre práticas de desenvolvimento web e mobile.
+Este será um espaço para o compartilhamento de recursos de aprendizado sobre práticas de desenvolvimento web e mobile e outros projetos.
 Mulheres Desenvolvedoras - Brasil é grupo do Facebook que originou este repositório  (https://www.facebook.com/groups/285943684909704/)
 
 Algumas regras do grupo: 
